@@ -1,12 +1,16 @@
 {
-    "users":[
+    "todos":[
         {
             "id":1,
-            "name":"Ali"
+            "title":"Ali",
+            "dueDate":"2022-10-10",
+            "completed":false
         },
         {
             "id":2,
-            "name":"Ahmad"
+            "title":"Ali",
+            "dueDate":"2022-10-10",
+            "completed":false
         }
     ]
 }
